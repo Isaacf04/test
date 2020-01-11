@@ -29,10 +29,10 @@ moving to selector class
 .inventory_list .inventory_item:nth-child(3) .inventory_item_img a
 
 
-<<<<<<< HEAD
-Day9: Learned API Postman test case creation 
+Day9: Learned API Postman test case creation \\
 Day 10 David lesson hizo ultimo committ
+
+
      
-=======
-David es un commit
+
 
