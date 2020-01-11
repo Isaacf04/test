@@ -29,7 +29,3 @@ moving to selector class
 .inventory_list .inventory_item:nth-child(3) .inventory_item_img a
 
 
-
-ok ok ok ok 
-
-For if Isaac and Gaby
