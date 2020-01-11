@@ -29,3 +29,4 @@ moving to selector class
 .inventory_list .inventory_item:nth-child(3) .inventory_item_img a
 
 
+Day9: Learned API Postman test case creation 
