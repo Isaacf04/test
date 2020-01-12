@@ -30,9 +30,11 @@ moving to selector class
 
 
 Day9: Learned API Postman test case creation \\
-Day 10 David lesson hizo ultimo committ
+Day 10 David lesson hizo ultimo committ. Hi Team, did you record how the getActivetables was failing? did you record the getActiveTables call? 
 
-
+Dev debugging >
+What was the api doing when the 
+issue happen? was their any server code comming from BJ activetavles or was it just hanging?
      
 
 
