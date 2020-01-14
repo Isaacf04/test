@@ -17,6 +17,7 @@ answer  Python
 
 2. elem.send_keys="QA test"
 
+https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter4.1.html
 bag
 .inventory_details_img  
 
